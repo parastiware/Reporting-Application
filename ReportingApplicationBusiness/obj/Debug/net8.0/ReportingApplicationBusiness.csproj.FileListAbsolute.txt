@@ -1,0 +1,15 @@
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\bin\Debug\net8.0\ReportingApplicationBusiness.deps.json
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\bin\Debug\net8.0\ReportingApplicationBusiness.dll
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\bin\Debug\net8.0\ReportingApplicationBusiness.pdb
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\bin\Debug\net8.0\ReportingApplicationShared.dll
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\bin\Debug\net8.0\ReportingApplicationShared.pdb
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ReportingApplicationBusiness.csproj.AssemblyReference.cache
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ReportingApplicationBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ReportingApplicationBusiness.AssemblyInfoInputs.cache
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ReportingApplicationBusiness.AssemblyInfo.cs
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ReportingApplicationBusiness.csproj.CoreCompileInputs.cache
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\Reportin.CF039BAB.Up2Date
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ReportingApplicationBusiness.dll
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\refint\ReportingApplicationBusiness.dll
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ReportingApplicationBusiness.pdb
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationBusiness\obj\Debug\net8.0\ref\ReportingApplicationBusiness.dll

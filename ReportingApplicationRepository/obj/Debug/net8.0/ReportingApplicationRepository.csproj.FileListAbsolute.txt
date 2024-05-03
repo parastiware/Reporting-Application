@@ -1,0 +1,11 @@
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\bin\Debug\net8.0\ReportingApplicationRepository.deps.json
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\bin\Debug\net8.0\ReportingApplicationRepository.dll
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\bin\Debug\net8.0\ReportingApplicationRepository.pdb
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\ReportingApplicationRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\ReportingApplicationRepository.AssemblyInfoInputs.cache
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\ReportingApplicationRepository.AssemblyInfo.cs
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\ReportingApplicationRepository.csproj.CoreCompileInputs.cache
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\ReportingApplicationRepository.dll
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\refint\ReportingApplicationRepository.dll
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\ReportingApplicationRepository.pdb
+D:\Paras-WorkSpace\Projects\First\ReportingApplicationRepository\obj\Debug\net8.0\ref\ReportingApplicationRepository.dll

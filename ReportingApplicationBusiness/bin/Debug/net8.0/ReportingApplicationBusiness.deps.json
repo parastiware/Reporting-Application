@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReportingApplicationBusiness/1.0.0": {
+        "dependencies": {
+          "ReportingApplicationShared": "1.0.0"
+        },
+        "runtime": {
+          "ReportingApplicationBusiness.dll": {}
+        }
+      },
+      "ReportingApplicationShared/1.0.0": {
+        "runtime": {
+          "ReportingApplicationShared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReportingApplicationBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReportingApplicationShared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
